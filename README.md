@@ -11,5 +11,5 @@
 
 ## Add the dependency
   	dependencies {
-	        implementation 'com.github.dvinfosys:TextView:Tag'
+	        implementation 'com.github.dvinfosys:TextView:1.0'
 	} 
